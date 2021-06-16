@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ankit-devtool/curl_portfolio_react-_app/static/css/main.ff5f83a0.chunk.css",
+    "main.js": "/ankit-devtool/curl_portfolio_react-_app/static/js/main.19ef1e2c.chunk.js",
+    "main.js.map": "/ankit-devtool/curl_portfolio_react-_app/static/js/main.19ef1e2c.chunk.js.map",
+    "runtime-main.js": "/ankit-devtool/curl_portfolio_react-_app/static/js/runtime-main.fbd5ca3e.js",
+    "runtime-main.js.map": "/ankit-devtool/curl_portfolio_react-_app/static/js/runtime-main.fbd5ca3e.js.map",
+    "static/css/2.b4e56faa.chunk.css": "/ankit-devtool/curl_portfolio_react-_app/static/css/2.b4e56faa.chunk.css",
+    "static/js/2.a98a638e.chunk.js": "/ankit-devtool/curl_portfolio_react-_app/static/js/2.a98a638e.chunk.js",
+    "static/js/2.a98a638e.chunk.js.map": "/ankit-devtool/curl_portfolio_react-_app/static/js/2.a98a638e.chunk.js.map",
+    "static/js/3.5b2a792a.chunk.js": "/ankit-devtool/curl_portfolio_react-_app/static/js/3.5b2a792a.chunk.js",
+    "static/js/3.5b2a792a.chunk.js.map": "/ankit-devtool/curl_portfolio_react-_app/static/js/3.5b2a792a.chunk.js.map",
+    "index.html": "/ankit-devtool/curl_portfolio_react-_app/index.html",
+    "static/css/2.b4e56faa.chunk.css.map": "/ankit-devtool/curl_portfolio_react-_app/static/css/2.b4e56faa.chunk.css.map",
+    "static/css/main.ff5f83a0.chunk.css.map": "/ankit-devtool/curl_portfolio_react-_app/static/css/main.ff5f83a0.chunk.css.map",
+    "static/js/2.a98a638e.chunk.js.LICENSE.txt": "/ankit-devtool/curl_portfolio_react-_app/static/js/2.a98a638e.chunk.js.LICENSE.txt",
+    "static/media/1-intro-photo-final.d5047f31.jpg": "/ankit-devtool/curl_portfolio_react-_app/static/media/1-intro-photo-final.d5047f31.jpg",
+    "static/media/table.css": "/ankit-devtool/curl_portfolio_react-_app/static/media/BG.4a5cf2bb.png",
+    "static/media/Group 6.02510fb0.png": "/ankit-devtool/curl_portfolio_react-_app/static/media/Group 6.02510fb0.png",
+    "static/media/earth-globe-1964579-1661871.6ba9de33.png": "/ankit-devtool/curl_portfolio_react-_app/static/media/earth-globe-1964579-1661871.6ba9de33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbd5ca3e.js",
+    "static/css/2.b4e56faa.chunk.css",
+    "static/js/2.a98a638e.chunk.js",
+    "static/css/main.ff5f83a0.chunk.css",
+    "static/js/main.19ef1e2c.chunk.js"
+  ]
+}
