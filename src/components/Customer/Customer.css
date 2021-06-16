@@ -1,0 +1,39 @@
+.profile__container {
+  height: 249px;
+}
+.profile__container img {
+  border-radius: 50%;
+  height: 100%;
+}
+blockquote::before {
+  font-size: 81px;
+  font-family: Arial;
+  content: "\201C";
+  color: #4126af;
+  position: absolute;
+  left: 10px;
+  top: -50px;
+}
+.profile__block {
+  font-size: 15px;
+  font-weight: 600;
+  color: grey;
+  margin-top: -4px;
+  margin-left: 48px;
+}
+.profile__text {
+  text-align: left;
+}
+.profile__text h2 {
+  margin-left: 48px !important;
+}
+
+.profile__text p {
+  margin-left: 48px;
+}
+.customer {
+  margin-top: 7%;
+}
+.customer__container {
+  margin-top: 11%;
+}

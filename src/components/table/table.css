@@ -1,0 +1,14 @@
+.table {
+  background-image: url("../../assets/image/BG.png");
+  width: 90%;
+  height: 363px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+.table__container {
+  height: 700px;
+  margin-top: 13%;
+}
+.img {
+  width: 100%;
+}

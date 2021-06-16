@@ -1,0 +1,11 @@
+.primary {
+  text-align: left;
+  margin-top: 13%;
+  padding-bottom: 13%;
+}
+.recommended {
+  margin: 0;
+}
+h1 {
+  font-size: 30px;
+}

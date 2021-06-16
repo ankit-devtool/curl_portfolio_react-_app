@@ -1,0 +1,38 @@
+.serving__container h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+.serving__container {
+  color: #000000;
+}
+
+.serving__container:hover {
+  color: #1890ff;
+}
+.ant-radio-button {
+  color: black;
+  border-color: none;
+}
+.serving__per__month {
+  display: flex;
+  padding-top: 14px;
+}
+
+.serving__per__month p {
+  font-size: 40px;
+  margin: 0;
+}
+.serving__per__month span {
+  flex: 1;
+  color: grey;
+  font-style: italic;
+  padding-top: 22px;
+  text-align: left;
+}
+.per__serving {
+  font-size: 16px;
+  font-weight: 600;
+}
+.serving__last {
+  padding-top: 25px;
+}
